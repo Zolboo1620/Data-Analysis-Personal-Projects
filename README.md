@@ -6,10 +6,6 @@ Welcome to my personal repository for Data Analysis projects! This repository co
 - [Introduction](#introduction)
 - [Projects](#projects)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Provide a brief introduction to your repository. Mention your motivation, goals, and what visitors can expect to find in the repository.
