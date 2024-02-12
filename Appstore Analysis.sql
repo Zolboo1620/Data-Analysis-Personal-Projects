@@ -1,3 +1,11 @@
+**Findings**
+-- 1. Paid apps have better ratings 
+-- 2. Apps supporting between 10 and 30 languages have better ratings 
+-- 3. Finance and Book apps have low user ratings 
+-- 4. The longer the description length, the better the user rating 
+-- 5. A new app should aim for an average rating above 3.5 
+-- 6. Games and Entertaining apps have high user ratings, hence competition 
+
 create table apple_description_combined as 
 
 select * from appleStore_description1
@@ -117,13 +125,7 @@ FROM
 ) AS InnerQuery
 where InnerQuery.Rank = 1
 
-**Findings**
--- 1. Paid apps have better ratings 
--- 2. Apps supporting between 10 and 30 languages have better ratings 
--- 3. Finance and Book apps have low user ratings 
--- 4. Longer the descriopion length, the better the user rating 
--- 5. A new app should aim for an average rating above 3.5 
--- 6. Games and Entertaining apps have high user rating, hence competition
+
 
 
 
