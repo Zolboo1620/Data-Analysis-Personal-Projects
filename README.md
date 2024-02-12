@@ -4,7 +4,6 @@ Welcome to my personal repository for Data Analysis projects! This repository co
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Projects](#projects)
 - [Technologies Used](#technologies-used)
 - [Motivation](#Motivation)
 - [Goals](#Goals)
@@ -19,25 +18,6 @@ The world of data is vast and ever-evolving, and my motivation is to explore and
 - Demonstrate proficiency in data analysis using a variety of tools.
 - Showcase the application of Excel, SQL, Python, and Tableau in real-world scenarios.
 - Provide a resource for learning and inspiration for fellow data enthusiasts.
-
-## Projects
-List and briefly describe each project included in the repository. You can provide links to individual project folders or files.
-
-1. **Project 1: Excel Data Analysis**
-   - Description: Briefly describe the project, its goals, and the data used.
-   - Link: [Project 1 Folder](/projects/project1_excel_analysis)
-
-2. **Project 2: SQL Database Analysis**
-   - Description: Briefly describe the project, its goals, and the SQL database used.
-   - Link: [Project 2 Folder](/Data-Analysis-Personal-Projects/Appstore Analysis.sql) 
-
-3. **Project 3: Python Data Analysis**
-   - Description: Briefly describe the project, its goals, and the Python scripts used.
-   - Link: [Project 3 Folder](/projects/project3_python_analysis)
-
-4. **Project 4: Tableau Visualization**
-   - Description: Briefly describe the project, its goals, and the Tableau dashboard created.
-   - Link: [Project 4 Folder](/projects/project4_tableau_visualization)
 
 ## Technologies Used
 List the technologies and tools you have used in your projects.
