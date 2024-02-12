@@ -29,7 +29,7 @@ List and briefly describe each project included in the repository. You can provi
 
 2. **Project 2: SQL Database Analysis**
    - Description: Briefly describe the project, its goals, and the SQL database used.
-   - Link: [Project 2 Folder](/https://github.com/Zolboo1620/Data-Analysis-Personal-Projects/blob/main/Appstore%20Analysis.sql) 
+   - Link: [Project 2 Folder](/Data-Analysis-Personal-Projects/Appstore Analysis.sql) 
 
 3. **Project 3: Python Data Analysis**
    - Description: Briefly describe the project, its goals, and the Python scripts used.
