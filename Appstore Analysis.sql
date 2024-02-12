@@ -1,3 +1,5 @@
+**Helping app developers come up with an idea by answering a number of questions**
+
 **Findings**
 -- 1. Paid apps have better ratings 
 -- 2. Apps supporting between 10 and 30 languages have better ratings 
